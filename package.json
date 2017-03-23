@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Week of 19 HW: NYT React Search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kicknpick/ReactWeek19.git"
+  },
+  "author": "TP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kicknpick/ReactWeek19/issues"
+  },
+  "homepage": "https://github.com/kicknpick/ReactWeek19#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.4.2",
+    "react-router": "^4.0.0"
+  }
+}
